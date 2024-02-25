@@ -2,6 +2,7 @@ li{
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 50px;
+  font-size: 150px;
+  margin: 2vw;
   background-color: rgb(192, 182, 207);
 }
